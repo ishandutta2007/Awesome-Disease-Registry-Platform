@@ -4,10 +4,12 @@
 
 # 🩺 Awesome Disease Registry Platform & Infrastructure
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FHIR Compliant](https://img.shields.io/badge/FHIR-R4-blue.svg)](https://hl7.org/fhir/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](README.md#handshake-how-to-contribute)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ## 🌐 Top Clinical Disease Registry & Population Health Platform Ecosystem
 
@@ -25,6 +27,8 @@ Welcome to the definitive guide on **Disease Registry Systems**, **Clinical Data
 - [🔓 Open-Source Repositories & Toolkits](#-open-source-repositories--toolkits)
 - [🏗️ Architectural Frameworks](#-architectural-frameworks-for-custom-registries)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -114,6 +118,22 @@ Contributions are warmly welcome! 💖
 2. 📝 **Add/Update** entries in `README.md` following the table or list schema.
 3. 🔎 **Provide** accurate details (include repository links, vendor metrics, or software capabilities).
 4. 🚀 **Open a Pull Request** with a clear explanation of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated disease registry platform list valuable for your research, clinical data architecture, or health IT projects, please consider supporting the project!
+
+- ⭐ **Star** this repository to increase its visibility.
+- 🔀 **Fork** and share it with healthcare software developers and epidemiologists.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and open-source research via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Disease-Registry-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Disease-Registry-Platform&type=date&legend=top-left)
 
 ---
 
