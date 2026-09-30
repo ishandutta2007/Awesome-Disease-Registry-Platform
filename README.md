@@ -62,7 +62,7 @@ The table below outlines leading enterprise SaaS platforms powering clinical con
 
 Open-source solutions power global health surveillance, research registries, and standards-compliant HL7 FHIR infrastructure. 
 
-*(Sorted by GitHub Star count descending)*
+*(Sorted by GitHub Stars_Count descending)*
 
 - **[synthetichealth/synthea](https://github.com/synthetichealth/synthea/stargazers)** [![Stars](https://img.shields.io/github/stars/synthetichealth/synthea?style=social&color=white)](https://github.com/synthetichealth/synthea/stargazers)  
   💉 Synthetic patient population generator that simulates realistic medical histories and disease registry cohorts.
